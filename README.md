@@ -25,7 +25,6 @@ movie_tile_content = '''
     <h2>{movie_title}</h2>
 </div>
 '''
-'''
 
 ###entertainment_center.py
 here is an example of movie 
