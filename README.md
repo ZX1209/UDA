@@ -16,7 +16,7 @@ you can open it by webbrowser to see how it is.
 this is the setting of output html you can quickly change the effect of generated web page
 
 as an example
-'''python
+'''html
 
 # A single movie entry html template
 movie_tile_content = '''
