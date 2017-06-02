@@ -8,6 +8,7 @@ Created on Wed May 31 15:52:38 2017
 import media
 import fresh_tomatoes
 
+#added by myself
 first = media.Movie("ALL SUPERHERO MOVIES 2017 Trailer",
                         "Here are all Superhero Movies 2017 with Trailer",
                         "https://i.ytimg.com/vi/0Szbs34k3-Y/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsD2y5S1NCDNV1Urdq0jfy95DUBQ",
